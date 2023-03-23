@@ -1,7 +1,7 @@
-# Python_SP
-# I am a mechanical engineering student, currently doing my bachelors from Amity School of Engineering & Technology - ASETK - Amity University Kolkata - AUK
-# Currently in my 3rd Year of Study
-# This repository is about my Python Journey.
+# Python_SP/Xros 2002
+### I am a mechanical engineering student, currently doing my bachelors from Amity School of Engineering & Technology - ASETK - Amity University Kolkata - AUK
+### Currently in my 3rd Year of Study
+### This repository is about my Python Journey.
 
 
-# I might update this repository only occasionally!!
+### I might update this repository only occasionally!!
